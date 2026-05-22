@@ -1,0 +1,11 @@
+{
+  "name": "Signal Desk by LarryBuildsAI",
+  "slug": "signal-desk",
+  "category": "Data & Analytics",
+  "description": "Buyer-side spend-routing preflights before larger paid agent tool calls.",
+  "mcpEndpoint": "https://x402-resource-scanner.vercel.app/signal-desk/mcp",
+  "marketplaceRoot": "https://x402-resource-scanner.vercel.app/signal-desk/marketplaces",
+  "serverCard": "https://x402-resource-scanner.vercel.app/signal-desk/.well-known/mcp/server-card.json",
+  "runtime": "hosted remote MCP server",
+  "repositoryPurpose": "public metadata only"
+}
