@@ -28,6 +28,17 @@ Signal Desk is a remote Streamable HTTP MCP server. Use this endpoint in an MCP 
 
 Public `initialize` and `tools/list` calls are available for discovery. Protected paid tool execution may require product-specific authorization and/or x402 payment flow.
 
+## Buy through PayanAgent
+
+PayanAgent validates buyer input, settles USDC, and returns the selected Signal Desk result automatically:
+
+- [Agent spend route quote — $0.03](https://payanagent.com/marketplace/offers/kh732rk76r7nv67q1h5223kc9x8agkfx)
+- [Public website lead brief — $0.03](https://payanagent.com/marketplace/offers/kh7b6yxnq209169aq8wavbqzh98ag9gv)
+- [DeFi token risk snapshot — $0.01](https://payanagent.com/marketplace/offers/kh7eqsawc4t694gf1pxqn5shwn8ah5sw)
+- [Agent tool market comparison — $0.03](https://payanagent.com/marketplace/offers/kh79rcw8zvdhssthrvbwa32rtd8ahzww)
+
+Outputs are bounded planning and public-data evidence. Signal Desk does not execute purchases, trades, outreach, or wallet actions.
+
 ## Claim boundaries
 
 - This repo is public metadata for a hosted remote MCP server, not a claim that private production source code is open source.
