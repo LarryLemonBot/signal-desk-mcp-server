@@ -8,9 +8,9 @@ This repository is intentionally metadata-only. The production MCP server is hos
 
 - Product: Signal Desk by LarryBuildsAI
 - Purpose: buyer-side spend-routing preflights before larger paid agent tool calls
-- Remote MCP endpoint: `https://x402-resource-scanner.vercel.app/signal-desk/mcp`
-- Marketplace proof: `https://x402-resource-scanner.vercel.app/signal-desk/marketplaces`
-- Server card: `https://x402-resource-scanner.vercel.app/signal-desk/.well-known/mcp/server-card.json`
+- Remote MCP endpoint: `https://proofbeforepay.vercel.app/signal-desk/mcp`
+- Marketplace proof: `https://proofbeforepay.vercel.app/signal-desk/marketplaces`
+- Server card: `https://proofbeforepay.vercel.app/signal-desk/.well-known/mcp/server-card.json`
 
 ## Install / connect
 
@@ -20,7 +20,7 @@ Signal Desk is a remote Streamable HTTP MCP server. Use this endpoint in an MCP 
 {
   "mcpServers": {
     "signal-desk": {
-      "url": "https://x402-resource-scanner.vercel.app/signal-desk/mcp"
+      "url": "https://proofbeforepay.vercel.app/signal-desk/mcp"
     }
   }
 }
